@@ -1,0 +1,4 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+toby, Functional Testing, Test functionality of the software, 04 Jan 2023, 11 Jan 2023, No
+b.benz, Plan meetng, Demonstrate how the app and website works to stakeholders, 05 Jan 2023, 12 Feb 2023, No
